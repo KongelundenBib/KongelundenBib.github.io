@@ -1,9 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bibliotek.link/kirgistan/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>http://bibliotek.link/kirgistan/portfolio/kirgistan-projektet/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/kirgistan/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/politisk-indflydelse/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/socialt-arbejde/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/oprettelse/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/socialstyrelsen/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/tot/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/socialt-arbejde-vokse/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/socialt-arbejde---boern/</loc>
+    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/besoeg-socialforvaltningen/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/bes%C3%B8g/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/civilsamfund/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/udsigten-fra-lejligheden/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/moedet-med-virkeligheden/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/afslutning-og-evaluering/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/afslutninskonferencen/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/erfaringen-for-hele-verden/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/organizers/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/portfolio/perspektivering/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -22,103 +113,48 @@
   </url>
   
   <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/DS%20-%20International%20samarbejde/</loc>
+    <loc>http://bibliotek.link/kirgistan/portfolio/ds---international-samarbejde/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/Kirgistan%20Projektet/</loc>
+    <loc>http://bibliotek.link/kirgistan/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bibliotek.link/kirgistan/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/Kirgistan/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+    <loc>http://bibliotek.link/kirgistan/materialer/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/politisk%20indflydelse/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/socialt%20arbejde/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/oprettelse/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/socialstyrelsen/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/TOT/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/socialt%20arbejde-vokse/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/socialt%20arbejde%20-%20boern/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/Besoeg%20socialforvaltningen/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/bes%C3%B8g/</loc>
-    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/civilsamfund/</loc>
+    <loc>http://bibliotek.link/kirgistan/portfolio/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/Udsigten%20fra%20lejligheden/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/Moedet%20med%20virkeligheden/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/afslutning%20og%20evaluering/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/Afslutninskonferencen/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/Erfaringen%20for%20hele%20verden/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/Organizers/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bibliotek.link/kirgistan/portfolio/Perspektivering/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>http://bibliotek.link/kirgistan/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
