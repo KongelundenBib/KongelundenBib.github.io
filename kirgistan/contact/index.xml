@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact-rsses on DS Internationalt samarbejde</title>
-    <link>http://bibliotek.link/kirgistan/contact/index.xml</link>
-    <description>Recent content in Contact-rsses on DS Internationalt samarbejde</description>
+    <title>Contacts on DS Internationalt samarbejde</title>
+    <link>http://bibliotek.link/kirgistan/contact/</link>
+    <description>Recent content in Contacts on DS Internationalt samarbejde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 DS</copyright>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
-    <atom:link href="http://bibliotek.link/kirgistan/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://bibliotek.link/kirgistan/contact/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Kontakt</title>
@@ -16,8 +18,7 @@
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
       
       <guid>http://bibliotek.link/kirgistan/contact/</guid>
-      <description>&lt;p&gt;Hvis du er interesseret om at høre mere om projektet, kommer vi gerne forbi din arbejdsplads/klubmøder og holder oplæg.&lt;/p&gt;
-</description>
+      <description>Hvis du er interesseret om at høre mere om projektet, kommer vi gerne forbi din arbejdsplads/klubmøder og holder oplæg.</description>
     </item>
     
   </channel>
